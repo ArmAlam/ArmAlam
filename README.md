@@ -28,7 +28,7 @@
 
 #### My Current Stack
 
-<img height="48" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript"> <img height="48" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMFP4det4g4wSGb2PhWx1bWSQFI3WPsQcKw_2qOSi89A&s" alt="TypeScript"> <img height="48" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPa4KuqO0dSIeHlIaulFKS64Uv4ZLvdxnf2Q&usqp=CAU" alt="Node JS"> <img height="48" src="https://raw.githubusercontent.com/sudiptob2/sudiptob2/cdde83209af4b8397056819ce4416b165cfaeb61/img/react-original.svg" alt="react"> <img height="48" src="https://raw.githubusercontent.com/sudiptob2/sudiptob2/cdde83209af4b8397056819ce4416b165cfaeb61/img/linux-original.svg" alt="linux"> <img height="48" src="https://raw.githubusercontent.com/sudiptob2/sudiptob2/cdde83209af4b8397056819ce4416b165cfaeb61/img/git-original.svg" alt="git"> <img height="48" src="https://raw.githubusercontent.com/sudiptob2/sudiptob2/cdde83209af4b8397056819ce4416b165cfaeb61/img/docker-original.svg" alt="Docker">
+<img height="48" src="img/javascript-logo.svg" alt="JavaScript"> <img height="48" src="img/typescript.svg" alt="TypeScript"> <img height="48" src="img/node-js.svg" alt="Node JS"> <img height="48" src="img/react-original.svg" alt="react"> <img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/docker-original.svg" alt="Docker">
 
 #### Development Stuffs:
 
