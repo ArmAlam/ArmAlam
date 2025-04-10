@@ -19,7 +19,7 @@
 
 #### Bio
 
--   🏢 I'm currently working at **OrangeToolz**
+-   🏢 I'm currently working at **Vivasoft Limited**
 -   ⚙️ I use daily: `.js`, `.ts`, `.jsx`, `.tsx`, `.yml`
 -   🌍 I'm mostly active within the **JavaScript Community**
 -   🌱 Learning all about **Backend Engineering**
